@@ -22,5 +22,10 @@ public class SeleniumTest {
 		System.out.println("LogIn");
 	}
 	
+	@Test
+	public void LogIn12()
+	{
+		System.out.println("LogIn");
+	}
 
 }
