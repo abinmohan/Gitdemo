@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="62" started-at="2019-06-20T06:37:29Z" finished-at="2019-06-20T06:37:29Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="62" started-at="2019-06-20T06:37:29Z" finished-at="2019-06-20T06:37:29Z">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method status="PASS" signature="Android()[pri:0, instance:qaclickacademy.AppiumTest@13a57a3b]" name="Android" duration-ms="1" started-at="2019-06-20T06:37:29Z" finished-at="2019-06-20T06:37:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Android -->
+        <test-method status="PASS" signature="IOS()[pri:0, instance:qaclickacademy.AppiumTest@13a57a3b]" name="IOS" duration-ms="0" started-at="2019-06-20T06:37:29Z" finished-at="2019-06-20T06:37:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOS -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+      <class name="qaclickacademy.RESTAPITest">
+        <test-method status="PASS" signature="API()[pri:0, instance:qaclickacademy.RESTAPITest@69d9c55]" name="API" duration-ms="1" started-at="2019-06-20T06:37:29Z" finished-at="2019-06-20T06:37:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- API -->
+        <test-method status="PASS" signature="PostJira()[pri:0, instance:qaclickacademy.RESTAPITest@69d9c55]" name="PostJira" duration-ms="1" started-at="2019-06-20T06:37:29Z" finished-at="2019-06-20T06:37:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostJira -->
+      </class> <!-- qaclickacademy.RESTAPITest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="LogIn()[pri:0, instance:qaclickacademy.SeleniumTest@7f560810]" name="LogIn" duration-ms="11" started-at="2019-06-20T06:37:29Z" finished-at="2019-06-20T06:37:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogIn -->
+        <test-method status="PASS" signature="demo()[pri:0, instance:qaclickacademy.SeleniumTest@7f560810]" name="demo" duration-ms="0" started-at="2019-06-20T06:37:29Z" finished-at="2019-06-20T06:37:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
