@@ -7,6 +7,7 @@ public class SeleniumTest {
 	public void demo()
 	{
 		System.out.println("Demo");
+		System.out.println("Demo Test");
 	}
 	
 	@Test
