@@ -16,5 +16,11 @@ public class SeleniumTest {
 		System.out.println("LogIn");
 	}
 	
+	@Test
+	public void LogIn1()
+	{
+		System.out.println("LogIn");
+	}
+	
 
 }

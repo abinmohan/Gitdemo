@@ -14,5 +14,11 @@ public class AppiumTest {
 	{
 		System.out.println("IOS");
 	}
+	
+	@Test
+	public void IOS1()
+	{
+		System.out.println("IOS");
+	}
 
 }

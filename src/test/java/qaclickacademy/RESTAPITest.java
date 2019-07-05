@@ -22,5 +22,11 @@ public class RESTAPITest {
 	{
 		System.out.println("API");
 	}
+	
+	@Test
+	public void API1()
+	{
+		System.out.println("API");
+	}
 
 }
